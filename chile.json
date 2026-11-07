@@ -143,367 +143,346 @@
     "file": "https://v2.tustreaming.cl/chiloered/index.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
-  
-  
   {
-    "id": "23403",
+    "id": "23400",
     "title": "CL54 Canal Latino (Chile) (🇨🇱)",
     "file": "https://videostream.chileservidores.com:8081/latina/index.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23404",
+    "id": "23401",
     "title": "Click (Chile) (🇨🇱)",
     "file": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23405",
+    "id": "23402",
     "title": "Contivision (Chile) (🇨🇱)",
     "file": "https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23406",
+    "id": "23403",
     "title": "Cooperativa (Chile) (🇨🇱)",
     "file": "https://unlimited6-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23407",
+    "id": "23404",
     "title": "Dance FM (Chile) (🇨🇱)",
     "file": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23408",
+    "id": "23405",
     "title": "Decima (Chile) (🇨🇱)",
     "file": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23409",
+    "id": "23406",
     "title": "ED Enfoque Digital (Chile) (🇨🇱)",
     "file": "https://5eaccbab48461.streamlock.net:1936/8074/8074/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23410",
+    "id": "23407",
     "title": "El Centro (Chile) (🇨🇱)",
     "file": "https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23411",
+    "id": "23408",
     "title": "El Conquistador Santiago (Chile) (🇨🇱)",
     "file": "https://jireh-6-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23412",
+    "id": "23409",
     "title": "El Pingüino (Chile) (🇨🇱)",
     "file": "http://streaming.elpinguino.com:1935/live/pinguinotv/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23413",
+    "id": "23410",
     "title": "EnerGeek Fan (Chile) (🇨🇱)",
     "file": "https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=TDTCh4nnelsES",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23414",
+    "id": "23411",
     "title": "EnerGeek Radio (Chile) (🇨🇱)",
     "file": "https://cl-2.backend.energeek.cl/bkp/egradioweb/index.m3u8?token=TDTCh4nnelsES",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23415",
+    "id": "23412",
     "title": "EnerGeek Retro (Chile) (🇨🇱)",
     "file": "https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=TDTCh4nnelsES",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23416",
+    "id": "23413",
     "title": "Enjoy (Chile) (🇨🇱)",
     "file": "https://tvd-ejy.fluid.stream/EnjoyTelevision/livestream/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23417",
+    "id": "23414",
     "title": "Estudio (Chile) (🇨🇱)",
     "file": "https://5eaccbab48461.streamlock.net:1936/8176/8176/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23418",
+    "id": "23415",
     "title": "Favorita (Chile) (🇨🇱)",
     "file": "https://streamyes.alsolnet.com/radiofavoritatv/live/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
-  
-  
   {
-    "id": "23422",
+    "id": "23416",
     "title": "FTV Fantasia Radio (Chile) (🇨🇱)",
     "file": "https://v2.tustreaming.cl/fantasiatv/index.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23423",
+    "id": "23417",
     "title": "Futuro FM (Chile) (🇨🇱)",
     "file": "https://unlimited6-cl.dps.live/futurotv/futurotv.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23424",
+    "id": "23418",
     "title": "Holvoet (Chile) (🇨🇱)",
     "file": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23425",
+    "id": "23419",
     "title": "ITV Patagonia (Chile) (🇨🇱)",
     "file": "https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23426",
+    "id": "23420",
     "title": "La Chilena (Chile) (🇨🇱)",
     "file": "https://vdochile.com:3134/hybrid/play.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23427",
+    "id": "23421",
     "title": "La Melinkana (Chile) (🇨🇱)",
     "file": "https://v1.tustreaming.cl/melinkana/index.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23428",
+    "id": "23422",
     "title": "La Nuestra (Chile) (🇨🇱)",
     "file": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
-  
   {
-    "id": "23431",
+    "id": "23423",
     "title": "Marga Marga (Chile) (🇨🇱)",
     "file": "https://v1.tustreaming.cl/margamargatv/index.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
-  
-  
-  
   {
-    "id": "23437",
+    "id": "23424",
     "title": "MRTV Mi Radio (Chile) (🇨🇱)",
     "file": "https://tls-cl.cdnz.cl/miradio2/live/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
-  
   {
-    "id": "23440",
+    "id": "23425",
     "title": "Patagonia Radio (Chile) (🇨🇱)",
     "file": "https://video01.logicahost.com.br/grupomedia/grupomedia/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23441",
+    "id": "23426",
     "title": "Pichilemu (Chile) (🇨🇱)",
     "file": "https://5ff3d9babae13.streamlock.net/8028/8028/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23442",
+    "id": "23427",
     "title": "Portal FoxMix (Chile) (🇨🇱)",
     "file": "https://panel.tvstream.cl:1936/8040/8040/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23443",
+    "id": "23428",
     "title": "Providencia (Chile) (🇨🇱)",
     "file": "https://v1.tustreaming.cl/providenciatv/index.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23444",
+    "id": "23429",
     "title": "Pucon (Chile) (🇨🇱)",
     "file": "https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23445",
+    "id": "23430",
     "title": "Pudahuel FM (Chile) (🇨🇱)",
     "file": "https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23446",
+    "id": "23431",
     "title": "Pura Noticia (Chile) (🇨🇱)",
     "file": "https://pnt.janusmedia.tv/hls/pnt.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23447",
+    "id": "23432",
     "title": "Radio Ancoa (Chile) (🇨🇱)",
     "file": "https://v2.tustreaming.cl/radioancoatv/index.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23448",
+    "id": "23433",
     "title": "Recuerdos Retro (Chile) (🇨🇱)",
     "file": "https://panel.tvstream.cl:1936/8034/8034/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23449",
+    "id": "23434",
     "title": "Retro Play (Chile) (🇨🇱)",
     "file": "https://v4.tustreaming.cl/retroplaytv/index.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23450",
+    "id": "23435",
     "title": "Retro Plus (Chile) (🇨🇱)",
     "file": "https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
-  
-  
   {
-    "id": "23454",
+    "id": "23436",
     "title": "Ritmo FM (Chile) (🇨🇱)",
     "file": "https://panel.tvstream.cl:1936/8046/8046/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23455",
+    "id": "23437",
     "title": "Soberania (Chile) (🇨🇱)",
     "file": "https://tls-cl.cdnz.cl/radiosoberania/live/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23456",
+    "id": "23438",
     "title": "T-Vinet (Chile) (🇨🇱)",
     "file": "https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
-  
   {
-    "id": "23458",
+    "id": "23439",
     "title": "Teletrak (Chile) (🇨🇱)",
     "file": "https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23459",
+    "id": "23440",
     "title": "Thema (Chile) (🇨🇱)",
     "file": "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
-
-  
-  
-  
   {
-    "id": "23465",
+    "id": "23441",
     "title": "TVO (Chile) (🇨🇱)",
     "file": "https://5ff3d9babae13.streamlock.net/8014/8014/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23466",
+    "id": "23442",
     "title": "TVR (Chile) (🇨🇱)",
     "file": "https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23467",
+    "id": "23443",
     "title": "UATV Universidad Autonoma (Chile) (🇨🇱)",
     "file": "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
-  
   {
-    "id": "23469",
+    "id": "23444",
     "title": "UCT (Chile) (🇨🇱)",
     "file": "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23470",
+    "id": "23445",
     "title": "UCV (Chile) (🇨🇱)",
     "file": "https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23471",
+    "id": "23446",
     "title": "Ulagos (Chile) (🇨🇱)",
     "file": "https://tv.ulagos.cl/web/live.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23472",
+    "id": "23447",
     "title": "UMAG (Chile) (🇨🇱)",
     "file": "https://tls-cl.cdnz.cl/umag1/ngrp:live_all/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23473",
+    "id": "23448",
     "title": "UMAG 2 (Chile) (🇨🇱)",
     "file": "https://tls-cl.cdnz.cl/umag2/live/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23474",
+    "id": "23449",
     "title": "Usach Radio (Chile) (🇨🇱)",
     "file": "https://rusach2.janus.cl/playlist/stream.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23475",
+    "id": "23450",
     "title": "Utalca (Chile) (🇨🇱)",
     "file": "https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23476",
+    "id": "23451",
     "title": "UTV (Chile) (🇨🇱)",
     "file": "https://v2.tustreaming.cl/utv/index.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23477",
+    "id": "23452",
     "title": "VC Medios (Chile) (🇨🇱)",
     "file": "https://panel.tvstream.cl:1936/8024/8024/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23478",
+    "id": "23453",
     "title": "Vclassic (Chile) (🇨🇱)",
     "file": "https://5eaccbab48461.streamlock.net:1936/8112/8112/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
-  
   {
-    "id": "23480",
+    "id": "23454",
     "title": "Vclassic Tropical (Chile) (🇨🇱)",
     "file": "https://5eaccbab48461.streamlock.net:1936/8222/8222/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
-
-
   {
-    "id": "23483",
+    "id": "23455",
     "title": "Vision+ (Chile) (🇨🇱)",
     "file": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   },
   {
-    "id": "23484",
+    "id": "23456",
     "title": "VTV (Chile) (🇨🇱)",
     "file": "https://pantera1-100gb-cl-movistar.dps.live/vtv/vtv.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
   }
-  
 ]
