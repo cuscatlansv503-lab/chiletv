@@ -469,5 +469,11 @@
     "title": "VTV (Chile) (🇨🇱)",
     "file": "https://pantera1-100gb-cl-movistar.dps.live/vtv/vtv.smil/playlist.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
+  },
+  {
+    "id": "23457",
+    "title": "Chilevision (Chile) (🇨🇱)",
+    "file": "http://205.235.6.29:8000/play/a10w/index.m3u8?hls",
+    "image": "https://files.catbox.moe/qppz9b.png"
   }
 ]
