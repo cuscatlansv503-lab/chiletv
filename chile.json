@@ -523,5 +523,11 @@
     "title": "Mega ficción  (Chile) (🇨🇱)",
     "file": "http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8",
     "image": "https://files.catbox.moe/qppz9b.png"
+  },
+  {
+    "id": "23466",
+    "title": "Tvn (Chile) (🇨🇱)",
+    "file": "https://iptv.bitred.cl/tvn/index.m3u8",
+    "image": "https://files.catbox.moe/qppz9b.png"
   }
 ]
