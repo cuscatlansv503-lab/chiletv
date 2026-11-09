@@ -475,5 +475,17 @@
     "title": "Chilevision (Chile) (🇨🇱)",
     "file": "http://205.235.6.29:8000/play/a10w/index.m3u8?hls",
     "image": "https://files.catbox.moe/qppz9b.png"
+  },
+  {
+    "id": "23458",
+    "title": "Mega (Chile) (🇨🇱)",
+    "file": "https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8",
+    "image": "https://files.catbox.moe/qppz9b.png"
+  },
+  {
+    "id": "23459",
+    "title": "Mega op2 (Chile) (🇨🇱)",
+    "file": "http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "image": "https://files.catbox.moe/qppz9b.png"
   }
 ]
